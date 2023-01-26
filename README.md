@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently a fourth year computer science major @ Brock University. 
-I specialize in A.I & Machine Learning Although have interests for full stack development.
+I specialize in A.I & Machine Learning with interests in full stack development.
 
 ![Website](https://img.shields.io/website?down_color=RED&down_message=DOWN&style=for-the-badge&up_color=BLUE&up_message=PORTFOLIO&url=https%3A%2F%2Fmatthewbenson.ca)
 
